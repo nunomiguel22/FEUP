@@ -1,0 +1,10 @@
+<map id="draw_ship" name="draw_ship">
+<area shape="rect" id="node1" title="Draws a game ship on screen." alt="" coords="5,107,85,133"/>
+<area shape="rect" id="node2" href="$group__mvector.html#ga5b21913edf3a50ebb91761955fd878a9" title="Creates a vector using two points." alt="" coords="147,5,257,32"/>
+<area shape="rect" id="node3" href="$group__mvector.html#gab977880a911b2046c4fb232cf4ff1769" title="Calculates the magnitude of a vector." alt="" coords="319,81,453,108"/>
+<area shape="rect" id="node4" href="$group__mvector.html#gac6a489080973fc52049d7da402527d86" title="Returns the angle of a vector in degrees." alt="" coords="149,107,255,133"/>
+<area shape="rect" id="node5" href="$group__vcard.html#ga407d4fa88efe5bc8aca124c41ebdeacf" title="Translates a cartesian point into graphical coordinates." alt="" coords="133,157,271,184"/>
+<area shape="rect" id="node6" href="$group__graphics.html#ga5d24cf1cc242ee729421b82a032a1740" title="Draws pixmaps to a buffer, allows for transparency and rotation." alt="" coords="153,208,251,235"/>
+<area shape="rect" id="node7" href="$group__mvector.html#ga978bfc830d59eb08c07a9a12f80c86a0" title="Rotates vector using the rotation matrix." alt="" coords="333,183,439,209"/>
+<area shape="rect" id="node8" href="$vcard_8c.html#af19b9b73aca9700f99c102f1a38d2989" title=" " alt="" coords="345,233,427,260"/>
+</map>

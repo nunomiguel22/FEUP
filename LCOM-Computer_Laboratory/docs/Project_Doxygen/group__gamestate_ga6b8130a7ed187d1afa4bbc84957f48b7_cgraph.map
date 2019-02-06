@@ -1,0 +1,19 @@
+<map id="physics_update" name="physics_update">
+<area shape="rect" id="node1" title="This function does all singleplayer physics operations." alt="" coords="5,141,119,167"/>
+<area shape="rect" id="node2" href="$group__asteroidfield.html#gac4c167d9d95da2b9568c88610fdc7044" title="Updates the position of all active asteroids, when crossing screen bounds warps asteroid to the other..." alt="" coords="171,39,257,66"/>
+<area shape="rect" id="node3" href="$group__asteroidfield.html#gad3ad10b8c69f804bdd536d521906267e" title="Checks for all asteroid related collisions." alt="" coords="315,39,409,66"/>
+<area shape="rect" id="node7" href="$group___ship.html#ga0b3f8722bb5e476958e7b065fb4995bf" title="Applies the force vector to the ship&#39;s position, warps and rotates ship, destroys out of bound lasers..." alt="" coords="168,242,260,269"/>
+<area shape="rect" id="node13" href="$group___ship.html#gaf677f9c07f807e6b9eefbd1e1444a5be" title="Updates all alien ship physics: movement, rotation, fires lasers, warps ship." alt="" coords="167,394,261,421"/>
+<area shape="rect" id="node17" href="$group___ship.html#ga1cc2ed54ea07422e67d9a683f978b4c3" title="Checks for all alien ship related collisions." alt="" coords="311,90,413,117"/>
+<area shape="rect" id="node4" href="$group__mvector.html#ga5b21913edf3a50ebb91761955fd878a9" title="Creates a vector using two points." alt="" coords="483,191,593,218"/>
+<area shape="rect" id="node5" href="$group__mvector.html#gab977880a911b2046c4fb232cf4ff1769" title="Calculates the magnitude of a vector." alt="" coords="661,267,796,294"/>
+<area shape="rect" id="node6" href="$group__asteroidfield.html#gad4463b70c8dca784b9236cbdb3db6363" title="Fragments large asteroids into two smaller asteroids with random movement." alt="" coords="489,39,587,66"/>
+<area shape="rect" id="node8" href="$group___ship.html#gafdb8791c0aa821e7504442333b6e5bc6" title="When crossing screen bounds warps ship to the other edge of the screen." alt="" coords="322,343,402,370"/>
+<area shape="rect" id="node9" href="$group__mvector.html#ga978bfc830d59eb08c07a9a12f80c86a0" title="Rotates vector using the rotation matrix." alt="" coords="485,343,591,370"/>
+<area shape="rect" id="node10" href="$group__mvector.html#gac6a489080973fc52049d7da402527d86" title="Returns the angle of a vector in degrees." alt="" coords="309,394,415,421"/>
+<area shape="rect" id="node11" href="$group__mvector.html#gab4ea12d4f0ca66acb7104989529486b1" title="Reduces vector magnitude to a limit." alt="" coords="313,495,411,522"/>
+<area shape="rect" id="node12" href="$group__mvector.html#ga4376a8faaee79c4e657e909ff968f24f" title="Vector scalar multiplication." alt="" coords="463,495,613,522"/>
+<area shape="rect" id="node14" href="$group___ship.html#gaa47d7f7763350f21519bc89dc6ed6609" title="Updates the ship&#39;s laser struct to fire a laser in the cannon&#39;s direction." alt="" coords="309,546,415,573"/>
+<area shape="rect" id="node15" href="$group__mvector.html#ga093beb27012e7a39e743d46d4e7d5da2" title="Returns the versor of v1, a vector with the same direction of v1 but with magnitude 1." alt="" coords="471,546,605,573"/>
+<area shape="rect" id="node16" href="$group__mvector.html#gade61fa4df8c74a4f3d54b4f033a0edcd" title="Vector scalar division." alt="" coords="671,546,787,573"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="load_highscores" name="load_highscores">
+<area shape="rect" id="node1" title="Loads highscores from &quot;highscores.txt&quot; to the highscores array." alt="" coords="5,5,121,32"/>
+<area shape="rect" id="node2" href="$group__graphics.html#ga3b999662787c381da74576551865f3ee" title="Concatenates a folder path with file/folder name." alt="" coords="169,5,257,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="mp_transmit_keyboard_ev" name="mp_transmit_keyboard_ev">
+<area shape="rect" id="node1" title="Transmits keyboard events." alt="" coords="5,5,179,32"/>
+<area shape="rect" id="node2" href="$group__serialport.html#gae540f98fef1d3feed405745643462f7c" title="Writes character to transmitter holding register." alt="" coords="227,5,315,32"/>
+</map>

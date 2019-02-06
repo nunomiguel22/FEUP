@@ -1,0 +1,5 @@
+<map id="load_bitmaps" name="load_bitmaps">
+<area shape="rect" id="node1" title="Loads all bitmaps into memory." alt="" coords="5,31,104,57"/>
+<area shape="rect" id="node2" href="$group__graphics.html#ga3506880ffd407c36eb8aaddd2c1606d2" title="Loads a bmp image, done by Henrique Ferrolho." alt="" coords="153,5,239,32"/>
+<area shape="rect" id="node3" href="$group__graphics.html#ga3b999662787c381da74576551865f3ee" title="Concatenates a folder path with file/folder name." alt="" coords="152,56,240,83"/>
+</map>

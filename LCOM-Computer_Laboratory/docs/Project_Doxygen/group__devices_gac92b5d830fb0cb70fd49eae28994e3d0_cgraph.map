@@ -1,0 +1,12 @@
+<map id="reset_devices" name="reset_devices">
+<area shape="rect" id="node1" title="Unsubscribes and disables mouse, keyboard, timer 0, rtc, serial port interrupts." alt="" coords="5,157,107,184"/>
+<area shape="rect" id="node2" href="$group__devices.html#ga8b4929363b5ec93673a157817c1b9468" title="Unsubscribes to keyboard interrupts." alt="" coords="155,5,307,32"/>
+<area shape="rect" id="node3" href="$group__devices.html#ga358e352e3114528d176dcdfe75cbd227" title="Unsubscribes to mouse interrupts and calls disable_data_reporting()" alt="" coords="184,56,277,83"/>
+<area shape="rect" id="node4" href="$group__devices.html#ga72164f0c13c288f19298550cade08844" title="Unsubscribes to timer 0 interrupts." alt="" coords="167,107,295,133"/>
+<area shape="rect" id="node5" href="$group__devices.html#ga0f8758bf0df6766696104c3be6c0c6ea" title="Disables Updated&#45;ended RTC interrupts." alt="" coords="177,157,284,184"/>
+<area shape="rect" id="node8" href="$group__devices.html#ga00acf1d02808bf84c3d9593a1bad5492" title="Unsubscribes to RTC interrupts." alt="" coords="173,208,288,235"/>
+<area shape="rect" id="node9" href="$group__serialport.html#ga1f7e71cccf13f526b609e1cd8f407161" title="Disables serial port interrupts." alt="" coords="178,259,283,285"/>
+<area shape="rect" id="node10" href="$group__serialport.html#gad9cfa399df9032ec99f760195d457e9a" title="Unubscribes to serial port interrupts." alt="" coords="163,309,298,336"/>
+<area shape="rect" id="node6" href="$group__devices.html#ga4920e35969e1f68a7a9d4f1b37d38fcd" title="Reads from a RTC register." alt="" coords="356,132,428,159"/>
+<area shape="rect" id="node7" href="$group__devices.html#ga0bc31a2807dceb35caa7cc8c8616274b" title="Writes to a RTC register." alt="" coords="355,183,429,209"/>
+</map>

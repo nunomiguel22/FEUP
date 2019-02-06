@@ -1,0 +1,5 @@
+<map id="enable_data_reporting" name="enable_data_reporting">
+<area shape="rect" id="node1" title="Enables the mouse&#39;s data reporting." alt="" coords="5,31,155,57"/>
+<area shape="rect" id="node2" href="$group__devices.html#gabf6e77da648ded62b65bdb3f9a437424" title="Issues a command to the KBC." alt="" coords="215,5,329,32"/>
+<area shape="rect" id="node3" href="$group__devices.html#gaa786d65112bd99fb4812498b4b7273a9" title="Writes an argument to the output buffer." alt="" coords="203,56,341,83"/>
+</map>

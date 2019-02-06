@@ -1,0 +1,6 @@
+<map id="player" name="player">
+<area shape="rect" id="node1" title="Player struct." alt="" coords="31,320,89,347"/>
+<area shape="rect" id="node2" href="$structmpoint.html" title="Two&#45;dimensional cartesian point." alt="" coords="44,5,105,32"/>
+<area shape="rect" id="node3" href="$structmvector.html" title="Two&#45;dimensional vector." alt="" coords="41,95,108,121"/>
+<area shape="rect" id="node4" href="$structweapon.html" title="Weapon struct for ship&#39;s lasers." alt="" coords="139,222,205,249"/>
+</map>

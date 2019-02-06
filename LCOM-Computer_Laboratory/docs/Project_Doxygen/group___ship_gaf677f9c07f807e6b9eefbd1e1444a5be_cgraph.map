@@ -1,0 +1,13 @@
+<map id="alien_update" name="alien_update">
+<area shape="rect" id="node1" title="Updates all alien ship physics: movement, rotation, fires lasers, warps ship." alt="" coords="5,132,100,159"/>
+<area shape="rect" id="node2" href="$group___ship.html#gafdb8791c0aa821e7504442333b6e5bc6" title="When crossing screen bounds warps ship to the other edge of the screen." alt="" coords="161,5,241,32"/>
+<area shape="rect" id="node3" href="$group__mvector.html#ga978bfc830d59eb08c07a9a12f80c86a0" title="Rotates vector using the rotation matrix." alt="" coords="323,5,430,32"/>
+<area shape="rect" id="node4" href="$group__mvector.html#ga5b21913edf3a50ebb91761955fd878a9" title="Creates a vector using two points." alt="" coords="321,259,432,285"/>
+<area shape="rect" id="node5" href="$group__mvector.html#gac6a489080973fc52049d7da402527d86" title="Returns the angle of a vector in degrees." alt="" coords="148,107,253,133"/>
+<area shape="rect" id="node7" href="$group__mvector.html#gab4ea12d4f0ca66acb7104989529486b1" title="Reduces vector magnitude to a limit." alt="" coords="151,157,250,184"/>
+<area shape="rect" id="node9" href="$group___ship.html#gaa47d7f7763350f21519bc89dc6ed6609" title="Updates the ship&#39;s laser struct to fire a laser in the cannon&#39;s direction." alt="" coords="148,208,253,235"/>
+<area shape="rect" id="node6" href="$group__mvector.html#gab977880a911b2046c4fb232cf4ff1769" title="Calculates the magnitude of a vector." alt="" coords="500,107,635,133"/>
+<area shape="rect" id="node8" href="$group__mvector.html#ga4376a8faaee79c4e657e909ff968f24f" title="Vector scalar multiplication." alt="" coords="301,157,452,184"/>
+<area shape="rect" id="node10" href="$group__mvector.html#ga093beb27012e7a39e743d46d4e7d5da2" title="Returns the versor of v1, a vector with the same direction of v1 but with magnitude 1." alt="" coords="310,208,443,235"/>
+<area shape="rect" id="node11" href="$group__mvector.html#gade61fa4df8c74a4f3d54b4f033a0edcd" title="Vector scalar division." alt="" coords="509,208,625,235"/>
+</map>

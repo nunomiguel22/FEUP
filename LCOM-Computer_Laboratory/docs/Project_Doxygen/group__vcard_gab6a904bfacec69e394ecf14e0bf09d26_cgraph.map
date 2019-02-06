@@ -1,0 +1,6 @@
+<map id="draw_large_digit" name="draw_large_digit">
+<area shape="rect" id="node1" title="Draws a large pixmap digit." alt="" coords="5,31,120,57"/>
+<area shape="rect" id="node2" href="$group__graphics.html#ga5d24cf1cc242ee729421b82a032a1740" title="Draws pixmaps to a buffer, allows for transparency and rotation." alt="" coords="168,31,267,57"/>
+<area shape="rect" id="node3" href="$group__mvector.html#ga978bfc830d59eb08c07a9a12f80c86a0" title="Rotates vector using the rotation matrix." alt="" coords="315,5,421,32"/>
+<area shape="rect" id="node4" href="$vcard_8c.html#af19b9b73aca9700f99c102f1a38d2989" title=" " alt="" coords="327,56,409,83"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="ship_update" name="ship_update">
+<area shape="rect" id="node1" title="Applies the force vector to the ship&#39;s position, warps and rotates ship, destroys out of bound lasers..." alt="" coords="5,132,97,159"/>
+<area shape="rect" id="node2" href="$group___ship.html#gafdb8791c0aa821e7504442333b6e5bc6" title="When crossing screen bounds warps ship to the other edge of the screen." alt="" coords="161,5,241,32"/>
+<area shape="rect" id="node3" href="$group__mvector.html#ga978bfc830d59eb08c07a9a12f80c86a0" title="Rotates vector using the rotation matrix." alt="" coords="326,31,433,57"/>
+<area shape="rect" id="node4" href="$group__mvector.html#ga5b21913edf3a50ebb91761955fd878a9" title="Creates a vector using two points." alt="" coords="145,107,256,133"/>
+<area shape="rect" id="node5" href="$group__mvector.html#gab977880a911b2046c4fb232cf4ff1769" title="Calculates the magnitude of a vector." alt="" coords="312,208,447,235"/>
+<area shape="rect" id="node6" href="$group__mvector.html#gac6a489080973fc52049d7da402527d86" title="Returns the angle of a vector in degrees." alt="" coords="148,208,253,235"/>
+<area shape="rect" id="node7" href="$group__mvector.html#gab4ea12d4f0ca66acb7104989529486b1" title="Reduces vector magnitude to a limit." alt="" coords="151,259,250,285"/>
+<area shape="rect" id="node8" href="$group__mvector.html#ga4376a8faaee79c4e657e909ff968f24f" title="Vector scalar multiplication." alt="" coords="304,259,455,285"/>
+</map>

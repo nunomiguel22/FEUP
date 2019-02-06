@@ -1,0 +1,4 @@
+<map id="load_xpms" name="load_xpms">
+<area shape="rect" id="node1" title="Loads all pixmaps into memory." alt="" coords="5,5,91,32"/>
+<area shape="rect" id="node2" href="$group__graphics.html#gae16c0d5791d6887c39c7856700cab664" title="Loads pixmaps with 24 bit direct color mode." alt="" coords="139,5,249,32"/>
+</map>

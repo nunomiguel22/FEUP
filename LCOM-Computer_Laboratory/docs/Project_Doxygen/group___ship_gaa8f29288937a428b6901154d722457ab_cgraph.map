@@ -1,0 +1,5 @@
+<map id="verify_highscores" name="verify_highscores">
+<area shape="rect" id="node1" title="Verifies if there is a new highscore, sorts by highscore and saves array." alt="" coords="5,5,127,32"/>
+<area shape="rect" id="node2" href="$group___ship.html#ga6f8ae9d4bc854abc3de80f8f412f66e5" title="Saves highscores to &quot;highscores.txt&quot; from the highscores array." alt="" coords="175,5,293,32"/>
+<area shape="rect" id="node3" href="$group__graphics.html#ga3b999662787c381da74576551865f3ee" title="Concatenates a folder path with file/folder name." alt="" coords="341,5,429,32"/>
+</map>

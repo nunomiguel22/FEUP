@@ -1,0 +1,5 @@
+<map id="draw_pixmap" name="draw_pixmap">
+<area shape="rect" id="node1" title="Draws pixmaps to a buffer, allows for transparency and rotation." alt="" coords="5,31,104,57"/>
+<area shape="rect" id="node2" href="$group__mvector.html#ga978bfc830d59eb08c07a9a12f80c86a0" title="Rotates vector using the rotation matrix." alt="" coords="152,5,259,32"/>
+<area shape="rect" id="node3" href="$vcard_8c.html#af19b9b73aca9700f99c102f1a38d2989" title=" " alt="" coords="164,56,247,83"/>
+</map>

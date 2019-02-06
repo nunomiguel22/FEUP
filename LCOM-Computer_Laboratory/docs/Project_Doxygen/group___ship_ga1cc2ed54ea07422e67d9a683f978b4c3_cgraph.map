@@ -1,0 +1,5 @@
+<map id="alien_collision" name="alien_collision">
+<area shape="rect" id="node1" title="Checks for all alien ship related collisions." alt="" coords="5,31,108,57"/>
+<area shape="rect" id="node2" href="$group__mvector.html#ga5b21913edf3a50ebb91761955fd878a9" title="Creates a vector using two points." alt="" coords="168,5,279,32"/>
+<area shape="rect" id="node3" href="$group__mvector.html#gab977880a911b2046c4fb232cf4ff1769" title="Calculates the magnitude of a vector." alt="" coords="156,56,291,83"/>
+</map>

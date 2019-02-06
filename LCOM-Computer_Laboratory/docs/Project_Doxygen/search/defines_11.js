@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['serial_5fcom1_5firq_5fline',['serial_com1_irq_line',['../macros_8h.html#afaa55e05423ba9377b3044e55f8a1397',1,'macros.h']]],
+  ['serial_5fcom2_5firq_5fline',['serial_com2_irq_line',['../macros_8h.html#a46c1f8c052ea3cf72cccacceac2f0bad',1,'macros.h']]],
+  ['set_5fvbe_5fmode',['set_vbe_mode',['../macros_8h.html#a84b0c729dfaafefdb3ec0391e9233815',1,'macros.h']]],
+  ['setdefaults',['setDefaults',['../macros_8h.html#a643174ebecca232427df3714e360dbf3',1,'macros.h']]],
+  ['setstreammode',['setStreamMode',['../macros_8h.html#a3e39b75bef4f02c27b11fc9c31a51ac3',1,'macros.h']]],
+  ['ship_5fhitradius',['SHIP_HITRADIUS',['../macros_8h.html#a86e5ee1fd7e06975b27716b510b9ced4',1,'macros.h']]],
+  ['small_5fasteroid_5fchange_5fincrease_5frate',['SMALL_ASTEROID_CHANGE_INCREASE_RATE',['../macros_8h.html#ab48db26dd53cc9d42403b2dd52fbcab7',1,'macros.h']]],
+  ['sp_5ffifo_5fcontrol',['SP_FIFO_CONTROL',['../macros_8h.html#a9fa88e4e6fa47a00c58694339950e2bf',1,'macros.h']]],
+  ['sp_5ffifo_5finit',['SP_FIFO_INIT',['../macros_8h.html#acc22d4ec5a0c588a454a0e830508c032',1,'macros.h']]],
+  ['sp_5ffifo_5fready',['SP_FIFO_READY',['../macros_8h.html#aefae88c28af3d13335bfb0116c1427da',1,'macros.h']]],
+  ['sp_5fih_5fenable',['SP_IH_ENABLE',['../macros_8h.html#a4de77199f280d341e64bec11c761b3d9',1,'macros.h']]],
+  ['sp_5fint_5fidentification',['SP_INT_IDENTIFICATION',['../macros_8h.html#a9ef4ac58bcf230614411774e61222d45',1,'macros.h']]],
+  ['sp_5fint_5forigin',['SP_INT_ORIGIN',['../macros_8h.html#ac87c83e8b88178bbd5451e612ab39cf5',1,'macros.h']]],
+  ['sp_5fline_5fctrl',['SP_LINE_CTRL',['../macros_8h.html#a3f931ed66e179ee6e3bb662ea533c879',1,'macros.h']]],
+  ['sp_5fline_5fstatus',['SP_LINE_STATUS',['../macros_8h.html#aeb1bb0db064db53f88a4ca070d10a239',1,'macros.h']]],
+  ['sp_5frate',['SP_RATE',['../macros_8h.html#a053bd04120832296c19bbf43a15123ae',1,'macros.h']]],
+  ['sp_5frx_5fready',['SP_RX_READY',['../macros_8h.html#a5840621e6c17a80e9d54ba46957e9b81',1,'macros.h']]],
+  ['sp_5ftx_5fready',['SP_TX_READY',['../macros_8h.html#ab27e0edc1591e1cc2acbbd96b6fbab8f',1,'macros.h']]],
+  ['starboard_5fthruster_5faccelaration',['STARBOARD_THRUSTER_ACCELARATION',['../macros_8h.html#aa985be534e0bb8e98304d556ca1af246',1,'macros.h']]],
+  ['starting_5fasteroids',['STARTING_ASTEROIDS',['../macros_8h.html#a3e4ebccd2ab30aa705e9eaad51384104',1,'macros.h']]],
+  ['stat_5freg',['STAT_REG',['../macros_8h.html#a89c4d098b53809674457b1660b1af780',1,'macros.h']]],
+  ['stop_5fbits_5f2',['STOP_BITS_2',['../macros_8h.html#a0b0ddb41f741fcffa6bc7840a10f3ba2',1,'macros.h']]]
+];

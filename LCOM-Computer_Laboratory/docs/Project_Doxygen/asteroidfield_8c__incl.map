@@ -1,0 +1,10 @@
+<map id="asteroidfield.c" name="asteroidfield.c">
+<area shape="rect" id="node1" title=" " alt="" coords="93,5,196,32"/>
+<area shape="rect" id="node2" href="$asteroidfield_8h.html" title=" " alt="" coords="93,80,196,107"/>
+<area shape="rect" id="node3" href="$ship_8h.html" title=" " alt="" coords="116,155,173,181"/>
+<area shape="rect" id="node4" href="$devices_8h.html" title=" " alt="" coords="7,229,83,256"/>
+<area shape="rect" id="node6" href="$macros_8h.html" title=" " alt="" coords="107,229,183,256"/>
+<area shape="rect" id="node7" href="$mvector_8h.html" title=" " alt="" coords="207,229,285,256"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,304,84,331"/>
+<area shape="rect" id="node8" title=" " alt="" coords="215,304,277,331"/>
+</map>

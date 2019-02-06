@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['large',['LARGE',['../group__asteroidfield.html#gga21fa5fbd57876a03d6fd98f25ab85c2da716db5c72140446e5badac4683610310',1,'asteroidfield.h']]],
+  ['large_5fasteroid_5fhitradius',['LARGE_ASTEROID_HITRADIUS',['../macros_8h.html#ab57fab67cb2bdfebd425da45d3e2ffd7',1,'macros.h']]],
+  ['large_5fasteroid_5fmax_5fvelocity',['LARGE_ASTEROID_MAX_VELOCITY',['../macros_8h.html#a27c9d248d44bc3d46e5034ec3ba96f1f',1,'macros.h']]],
+  ['large_5fasteroid_5fmin_5fvelocity',['LARGE_ASTEROID_MIN_VELOCITY',['../macros_8h.html#a25504d3bfd616939becb6302a8f519e1',1,'macros.h']]],
+  ['large_5fscore',['large_score',['../group__graphics.html#ga98c442df3dcdd86c616f8019bc859bd5',1,'bitmap_data']]],
+  ['laser_5fvelocity',['LASER_VELOCITY',['../macros_8h.html#ac45219ae3338d812f75832b9fa88ea32',1,'macros.h']]],
+  ['lasers',['lasers',['../group___ship.html#gaf0df9f4f8542f5534f5d817db826d49f',1,'player']]],
+  ['linbluefieldposition',['LinBlueFieldPosition',['../group__vcard.html#ga3f38d6becbe961786cd7ab58ec37fc07',1,'vbe_ModeInfoBlock']]],
+  ['linbluemasksize',['LinBlueMaskSize',['../group__vcard.html#gad8a25cec803bf91fb40a20a0aa5d5bf7',1,'vbe_ModeInfoBlock']]],
+  ['linbytesperscanline',['LinBytesPerScanLine',['../group__vcard.html#ga53c5060b6ac14a7418ca8421edfb9981',1,'vbe_ModeInfoBlock']]],
+  ['lingreenfieldposition',['LinGreenFieldPosition',['../group__vcard.html#ga6683a63711dbc5dfb9a2a59c55deecd5',1,'vbe_ModeInfoBlock']]],
+  ['lingreenmasksize',['LinGreenMaskSize',['../group__vcard.html#gaf235e505028771ab2fb84778f4dfb476',1,'vbe_ModeInfoBlock']]],
+  ['linnumberofimagepages',['LinNumberOfImagePages',['../group__vcard.html#ga3fa2352e69836f4b69b3a344ae761ba8',1,'vbe_ModeInfoBlock']]],
+  ['linredfieldposition',['LinRedFieldPosition',['../group__vcard.html#gaff962b58f86a77f12b412d47125a4993',1,'vbe_ModeInfoBlock']]],
+  ['linredmasksize',['LinRedMaskSize',['../group__vcard.html#ga1fbcef2402fe6ce7f6c006bd50eaa6da',1,'vbe_ModeInfoBlock']]],
+  ['linrsvdfieldposition',['LinRsvdFieldPosition',['../group__vcard.html#ga3df070e698b5f54814e20c8813f7bf7e',1,'vbe_ModeInfoBlock']]],
+  ['linrsvdmasksize',['LinRsvdMaskSize',['../group__vcard.html#ga334886fc9a915ff91966c3aac1da586a',1,'vbe_ModeInfoBlock']]],
+  ['load_5fbitmaps',['load_bitmaps',['../group__vcard.html#gac7655dd6955f227cbcdde59a13206615',1,'load_bitmaps(game_data *game):&#160;vcard.c'],['../group__vcard.html#gac7655dd6955f227cbcdde59a13206615',1,'load_bitmaps(game_data *game):&#160;vcard.c']]],
+  ['load_5fhighscores',['load_highscores',['../group___ship.html#ga6d0cd284f4379fca6a7e3840daed5ca8',1,'load_highscores(char FILEPATH[], unsigned int highscores[]):&#160;ship.c'],['../group___ship.html#ga6d0cd284f4379fca6a7e3840daed5ca8',1,'load_highscores(char FILEPATH[], unsigned int highscores[]):&#160;ship.c']]],
+  ['load_5fxpms',['load_xpms',['../group__vcard.html#gafdbe234f04a39f7afdd5e775ed82a603',1,'load_xpms(game_data *game):&#160;vcard.c'],['../group__vcard.html#gafdbe234f04a39f7afdd5e775ed82a603',1,'load_xpms(game_data *game):&#160;vcard.c']]],
+  ['loadbitmap',['loadBitmap',['../group__graphics.html#ga3506880ffd407c36eb8aaddd2c1606d2',1,'loadBitmap(const char *filename):&#160;graphics.c'],['../group__graphics.html#ga3506880ffd407c36eb8aaddd2c1606d2',1,'loadBitmap(const char *filename):&#160;graphics.c']]],
+  ['loss',['LOSS',['../group__gamestate.html#gga4e3d3a6f838d25e4227468ac3fa474f6a5300ace057d3da135a1917854e61f83f',1,'gamestate.h']]]
+];

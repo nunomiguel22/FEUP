@@ -1,0 +1,5 @@
+<map id="mvector_get_versor" name="mvector_get_versor">
+<area shape="rect" id="node1" title="Returns the versor of v1, a vector with the same direction of v1 but with magnitude 1." alt="" coords="5,31,139,57"/>
+<area shape="rect" id="node2" href="$group__mvector.html#gab977880a911b2046c4fb232cf4ff1769" title="Calculates the magnitude of a vector." alt="" coords="187,5,321,32"/>
+<area shape="rect" id="node3" href="$group__mvector.html#gade61fa4df8c74a4f3d54b4f033a0edcd" title="Vector scalar division." alt="" coords="196,56,312,83"/>
+</map>

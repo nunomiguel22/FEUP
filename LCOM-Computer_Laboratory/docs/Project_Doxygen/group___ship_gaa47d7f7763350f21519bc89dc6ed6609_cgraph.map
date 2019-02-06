@@ -1,0 +1,8 @@
+<map id="ship_fire_laser" name="ship_fire_laser">
+<area shape="rect" id="node1" title="Updates the ship&#39;s laser struct to fire a laser in the cannon&#39;s direction." alt="" coords="5,56,111,83"/>
+<area shape="rect" id="node2" href="$group__mvector.html#ga5b21913edf3a50ebb91761955fd878a9" title="Creates a vector using two points." alt="" coords="179,5,289,32"/>
+<area shape="rect" id="node3" href="$group__mvector.html#ga093beb27012e7a39e743d46d4e7d5da2" title="Returns the versor of v1, a vector with the same direction of v1 but with magnitude 1." alt="" coords="167,56,301,83"/>
+<area shape="rect" id="node6" href="$group__mvector.html#ga4376a8faaee79c4e657e909ff968f24f" title="Vector scalar multiplication." alt="" coords="159,107,309,133"/>
+<area shape="rect" id="node4" href="$group__mvector.html#gab977880a911b2046c4fb232cf4ff1769" title="Calculates the magnitude of a vector." alt="" coords="357,31,492,57"/>
+<area shape="rect" id="node5" href="$group__mvector.html#gade61fa4df8c74a4f3d54b4f033a0edcd" title="Vector scalar division." alt="" coords="367,81,483,108"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="free_bitmaps" name="free_bitmaps">
+<area shape="rect" id="node1" title="Frees all bitmaps from memory." alt="" coords="5,5,101,32"/>
+<area shape="rect" id="node2" href="$group__graphics.html#ga08c1d4f4fff81df260d979ea8fc1aa61" title="Destroys the given bitmap, freeing all resources used by it, done by Henrique Ferrolho." alt="" coords="149,5,248,32"/>
+</map>

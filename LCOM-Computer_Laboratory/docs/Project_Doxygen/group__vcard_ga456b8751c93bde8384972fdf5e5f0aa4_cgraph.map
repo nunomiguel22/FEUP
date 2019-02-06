@@ -1,0 +1,11 @@
+<map id="draw_alien" name="draw_alien">
+<area shape="rect" id="node1" title="Draws the enemy alien ship." alt="" coords="5,107,88,133"/>
+<area shape="rect" id="node2" href="$group__vcard.html#ga407d4fa88efe5bc8aca124c41ebdeacf" title="Translates a cartesian point into graphical coordinates." alt="" coords="136,5,273,32"/>
+<area shape="rect" id="node3" href="$group__mvector.html#ga5b21913edf3a50ebb91761955fd878a9" title="Creates a vector using two points." alt="" coords="149,56,260,83"/>
+<area shape="rect" id="node4" href="$group__graphics.html#ga5d24cf1cc242ee729421b82a032a1740" title="Draws pixmaps to a buffer, allows for transparency and rotation." alt="" coords="155,107,254,133"/>
+<area shape="rect" id="node7" href="$group__mvector.html#gac6a489080973fc52049d7da402527d86" title="Returns the angle of a vector in degrees." alt="" coords="152,208,257,235"/>
+<area shape="rect" id="node9" href="$group__graphics.html#ga2371ef0833ccaeb0f1c7b325109f3017" title="Draws an unscaled, unrotated bitmap at the given position, done by Henrique Ferrolho." alt="" coords="159,157,250,184"/>
+<area shape="rect" id="node5" href="$group__mvector.html#ga978bfc830d59eb08c07a9a12f80c86a0" title="Rotates vector using the rotation matrix." alt="" coords="335,107,442,133"/>
+<area shape="rect" id="node6" href="$vcard_8c.html#af19b9b73aca9700f99c102f1a38d2989" title=" " alt="" coords="347,157,430,184"/>
+<area shape="rect" id="node8" href="$group__mvector.html#gab977880a911b2046c4fb232cf4ff1769" title="Calculates the magnitude of a vector." alt="" coords="321,208,456,235"/>
+</map>

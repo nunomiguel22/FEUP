@@ -1,0 +1,52 @@
+<map id="proj_main_loop" name="proj_main_loop">
+<area shape="rect" id="node1" title=" " alt="" coords="5,699,115,725"/>
+<area shape="rect" id="node2" href="$group__gamestate.html#gabfcf709f6d6d594eb66f18fe33cf4d4b" title="Initiates/resets all game data." alt="" coords="167,81,277,108"/>
+<area shape="rect" id="node9" href="$group__vcard.html#ga03beebf77eab8436a8f829571d3d5d25" title="Switches VBE graphics mode." alt="" coords="181,309,263,336"/>
+<area shape="rect" id="node11" href="$vcard_8c.html#a664a9f8bcc5552e5428700a283536cee" title=" " alt="" coords="569,1323,666,1349"/>
+<area shape="rect" id="node17" href="$group__devices.html#gab01199c927ceda6f9520c7afb0f1b099" title="Subscribes and enables mouse, keyboard, timer 0, rtc, serial port interrupts." alt="" coords="367,699,456,725"/>
+<area shape="rect" id="node29" href="$group__gamestate.html#ga842bcff744b72b6aa462485385507d65" title="Main loop, handles all interrupt events." alt="" coords="163,927,281,953"/>
+<area shape="rect" id="node42" href="$group__devices.html#gac92b5d830fb0cb70fd49eae28994e3d0" title="Unsubscribes and disables mouse, keyboard, timer 0, rtc, serial port interrupts." alt="" coords="361,360,462,387"/>
+<area shape="rect" id="node50" href="$group__vcard.html#gade48e22a32be2cf8debf4533415f219d" title="Switches to default minix text mode." alt="" coords="179,1272,265,1299"/>
+<area shape="rect" id="node3" href="$group___ship.html#ga6d0cd284f4379fca6a7e3840daed5ca8" title="Loads highscores from &quot;highscores.txt&quot; to the highscores array." alt="" coords="353,5,469,32"/>
+<area shape="rect" id="node5" href="$group__vcard.html#gafdbe234f04a39f7afdd5e775ed82a603" title="Loads all pixmaps into memory." alt="" coords="369,107,454,133"/>
+<area shape="rect" id="node7" href="$group__vcard.html#gac7655dd6955f227cbcdde59a13206615" title="Loads all bitmaps into memory." alt="" coords="362,56,461,83"/>
+<area shape="rect" id="node4" href="$group__graphics.html#ga3b999662787c381da74576551865f3ee" title="Concatenates a folder path with file/folder name." alt="" coords="573,5,661,32"/>
+<area shape="rect" id="node6" href="$group__graphics.html#gae16c0d5791d6887c39c7856700cab664" title="Loads pixmaps with 24 bit direct color mode." alt="" coords="562,107,673,133"/>
+<area shape="rect" id="node8" href="$group__graphics.html#ga3506880ffd407c36eb8aaddd2c1606d2" title="Loads a bmp image, done by Henrique Ferrolho." alt="" coords="574,56,661,83"/>
+<area shape="rect" id="node10" href="$group__vcard.html#gaf1a6a0da7a1f730f6377ce3719432356" title="Returns VBE mode information." alt="" coords="358,309,465,336"/>
+<area shape="rect" id="node12" href="$group__graphics.html#ga2371ef0833ccaeb0f1c7b325109f3017" title="Draws an unscaled, unrotated bitmap at the given position, done by Henrique Ferrolho." alt="" coords="771,1323,861,1349"/>
+<area shape="rect" id="node14" href="$group__vcard.html#ga5986eaef15558a47f7c629d01d6825f5" title="Displays a local buffer frame on screen." alt="" coords="765,1196,867,1223"/>
+<area shape="rect" id="node15" href="$group__graphics.html#ga5d24cf1cc242ee729421b82a032a1740" title="Draws pixmaps to a buffer, allows for transparency and rotation." alt="" coords="767,1272,865,1299"/>
+<area shape="rect" id="node13" href="$vcard_8c.html#af19b9b73aca9700f99c102f1a38d2989" title=" " alt="" coords="951,1323,1033,1349"/>
+<area shape="rect" id="node16" href="$group__mvector.html#ga978bfc830d59eb08c07a9a12f80c86a0" title="Rotates vector using the rotation matrix." alt="" coords="939,1272,1045,1299"/>
+<area shape="rect" id="node18" href="$group__devices.html#ga092e2f88620c116e5535161006d32f52" title="Subscribes to keyboard interrupts." alt="" coords="548,765,687,792"/>
+<area shape="rect" id="node19" href="$group__devices.html#ga4185b663b1e08cb1b80892527ae69344" title="Subscribes to mouse interrupts and calls enable_data_reporting()" alt="" coords="575,461,660,488"/>
+<area shape="rect" id="node21" href="$group__devices.html#gae51baf1720f278f07370732420db4dcd" title="Subscribes to timer 0 interrupts." alt="" coords="560,816,675,843"/>
+<area shape="rect" id="node22" href="$group__devices.html#ga796af149cd7131a3c4b6373759a14518" title="Subscribes to RTC interrupts." alt="" coords="567,563,667,589"/>
+<area shape="rect" id="node23" href="$group__devices.html#ga8d098a183fdb5fc38da0335041c4d3db" title="Enables Updated&#45;ended RTC interrupts." alt="" coords="566,867,669,893"/>
+<area shape="rect" id="node26" href="$group__serialport.html#ga3f915f264c3f82e6f56ff49abd30092d" title="Subscribes to serial port interrupts." alt="" coords="557,613,677,640"/>
+<area shape="rect" id="node27" href="$group__serialport.html#ga9f9580a6620b80f2ba241d2fc567a949" title="Enables serial port interrupts." alt="" coords="566,664,669,691"/>
+<area shape="rect" id="node28" href="$group__serialport.html#ga5bcb9ade4e06222233cc2f9628c987d0" title="Sets serial port bit rate." alt="" coords="572,715,663,741"/>
+<area shape="rect" id="node20" href="$group__devices.html#gabe20128c397b0e728b58316a8e1a6e14" title="Enables the mouse&#39;s data reporting." alt="" coords="741,461,891,488"/>
+<area shape="rect" id="node24" href="$group__devices.html#ga4920e35969e1f68a7a9d4f1b37d38fcd" title="Reads from a RTC register." alt="" coords="780,943,852,969"/>
+<area shape="rect" id="node25" href="$group__devices.html#ga0bc31a2807dceb35caa7cc8c8616274b" title="Writes to a RTC register." alt="" coords="779,867,853,893"/>
+<area shape="rect" id="node30" href="$group__devices.html#ga31f2f46134041207b175ee5b4da666c8" title="Reads mouse input data, then calls parse_mpacket() to parse the packet." alt="" coords="329,817,493,844"/>
+<area shape="rect" id="node32" href="$group__gamestate.html#gaacb369319183c3c65d059b1287ff7fbf" title="Main game state machine." alt="" coords="338,1120,485,1147"/>
+<area shape="rect" id="node37" href="$group__devices.html#ga7f26122a5505060fa5c088793d24f7c7" title="Reads the keyboard&#39;s scan code, and updates the keyboard game event enum." alt="" coords="347,919,476,961"/>
+<area shape="rect" id="node38" href="$group__devices.html#gacbe6dfc99c39f1c5e26d7ea801ec6a5c" title="Timer 0 Interrupt handler, updates the game&#39;s various timers aswell as each asteroid&#39;s death timer." alt="" coords="334,1171,489,1197"/>
+<area shape="rect" id="node39" href="$group__serialport.html#ga6a14f067f8cc6f7bae593e8863a7912b" title="Status of receiver buffer register." alt="" coords="349,767,473,793"/>
+<area shape="rect" id="node40" href="$group__multiplayer.html#ga3ddcb9f87dad05055254530be06272ea" title="Handles receiving serial port data." alt="" coords="333,868,489,895"/>
+<area shape="rect" id="node41" href="$group__gamestate.html#ga44acd481225afae566c18c220898101e" title="Renders singleplayer frames, allows for page flipping and vsync. Clears the local pixel buffer." alt="" coords="362,1053,461,1080"/>
+<area shape="rect" id="node31" href="$group__devices.html#gab2fb04cf2ae1a6d297a0156c127866c6" title="Parses mouse packets into a struct." alt="" coords="562,917,673,944"/>
+<area shape="rect" id="node33" href="$group__gamestate.html#ga939e45023f1be448ffe8eaf3b96215d7" title="Renders menu frames, allows for page flipping and vsync. Clears the local pixel buffer." alt="" coords="548,1221,687,1248"/>
+<area shape="rect" id="node34" href="$group__gamestate.html#ga808f5d0606684f6d80c0ee4c6af6fc22" title="Updates cursor within screen bounds." alt="" coords="565,1120,669,1147"/>
+<area shape="rect" id="node35" href="$group__devices.html#ga37071759b18c0ceb1da335448af73373" title="Reads RTC&#39;s hours, minutes and seconds and saves it on the RTC time struct." alt="" coords="580,1019,655,1045"/>
+<area shape="rect" id="node36" href="$group___ship.html#ga727462aea00defcebc957ff7d3d497fe" title="Initiates ship values for single player mode." alt="" coords="572,1272,663,1299"/>
+<area shape="rect" id="node43" href="$group__devices.html#ga8b4929363b5ec93673a157817c1b9468" title="Unsubscribes to keyboard interrupts." alt="" coords="541,157,693,184"/>
+<area shape="rect" id="node44" href="$group__devices.html#ga358e352e3114528d176dcdfe75cbd227" title="Unsubscribes to mouse interrupts and calls disable_data_reporting()" alt="" coords="571,208,664,235"/>
+<area shape="rect" id="node45" href="$group__devices.html#ga72164f0c13c288f19298550cade08844" title="Unsubscribes to timer 0 interrupts." alt="" coords="553,259,681,285"/>
+<area shape="rect" id="node46" href="$group__devices.html#ga0f8758bf0df6766696104c3be6c0c6ea" title="Disables Updated&#45;ended RTC interrupts." alt="" coords="564,512,671,539"/>
+<area shape="rect" id="node47" href="$group__devices.html#ga00acf1d02808bf84c3d9593a1bad5492" title="Unsubscribes to RTC interrupts." alt="" coords="560,309,675,336"/>
+<area shape="rect" id="node48" href="$group__serialport.html#ga1f7e71cccf13f526b609e1cd8f407161" title="Disables serial port interrupts." alt="" coords="565,360,670,387"/>
+<area shape="rect" id="node49" href="$group__serialport.html#gad9cfa399df9032ec99f760195d457e9a" title="Unubscribes to serial port interrupts." alt="" coords="550,411,685,437"/>
+</map>

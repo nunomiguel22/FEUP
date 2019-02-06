@@ -1,0 +1,9 @@
+<map id="game_data_init" name="game_data_init">
+<area shape="rect" id="node1" title="Initiates/resets all game data." alt="" coords="5,56,116,83"/>
+<area shape="rect" id="node2" href="$group___ship.html#ga6d0cd284f4379fca6a7e3840daed5ca8" title="Loads highscores from &quot;highscores.txt&quot; to the highscores array." alt="" coords="164,56,280,83"/>
+<area shape="rect" id="node4" href="$group__vcard.html#gafdbe234f04a39f7afdd5e775ed82a603" title="Loads all pixmaps into memory." alt="" coords="179,5,265,32"/>
+<area shape="rect" id="node6" href="$group__vcard.html#gac7655dd6955f227cbcdde59a13206615" title="Loads all bitmaps into memory." alt="" coords="173,107,271,133"/>
+<area shape="rect" id="node3" href="$group__graphics.html#ga3b999662787c381da74576551865f3ee" title="Concatenates a folder path with file/folder name." alt="" coords="339,56,427,83"/>
+<area shape="rect" id="node5" href="$group__graphics.html#gae16c0d5791d6887c39c7856700cab664" title="Loads pixmaps with 24 bit direct color mode." alt="" coords="328,5,439,32"/>
+<area shape="rect" id="node7" href="$group__graphics.html#ga3506880ffd407c36eb8aaddd2c1606d2" title="Loads a bmp image, done by Henrique Ferrolho." alt="" coords="340,107,427,133"/>
+</map>
