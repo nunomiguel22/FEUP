@@ -1,0 +1,6 @@
+0 1 Paulo  Jorge
+0 1 45 Teles  Silva
+1 Faro Porto 463.503 1 50 0 15-01-2019
+10:30
+1 66 Rui  Moreira
+0 
