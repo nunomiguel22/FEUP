@@ -1,0 +1,14 @@
+dictionary.txt
+
+A B A C K # 
+# # B # # V 
+# W A S T E 
+# # T # # R 
+# V E X # G 
+# # # # # E 
+
+AaH ABACK
+AcV ABATE
+CbH WASTE
+BfV VERGE
+EbH VEX
