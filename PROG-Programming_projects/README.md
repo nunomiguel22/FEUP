@@ -11,7 +11,7 @@ Group project for the Programming class at Faculty of Engineering of the Univers
 * Ricardo Jorge de Araújo Ferreira
 
 ## Grade:
-* Crosswords Puzzle: 19.1/20
+* 19.1/20
 
 ## Crosswords Puzzle Screenshot:
 
