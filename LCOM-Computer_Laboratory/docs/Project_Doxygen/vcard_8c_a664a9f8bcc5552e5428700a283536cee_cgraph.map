@@ -1,8 +1,0 @@
-<map id="show_splash" name="show_splash">
-<area shape="rect" id="node1" title=" " alt="" coords="5,56,103,83"/>
-<area shape="rect" id="node2" href="$group__graphics.html#ga2371ef0833ccaeb0f1c7b325109f3017" title="Draws an unscaled, unrotated bitmap at the given position, done by Henrique Ferrolho." alt="" coords="157,5,247,32"/>
-<area shape="rect" id="node4" href="$group__vcard.html#ga5986eaef15558a47f7c629d01d6825f5" title="Displays a local buffer frame on screen." alt="" coords="151,56,253,83"/>
-<area shape="rect" id="node5" href="$group__graphics.html#ga5d24cf1cc242ee729421b82a032a1740" title="Draws pixmaps to a buffer, allows for transparency and rotation." alt="" coords="153,107,251,133"/>
-<area shape="rect" id="node3" href="$vcard_8c.html#af19b9b73aca9700f99c102f1a38d2989" title=" " alt="" coords="313,31,396,57"/>
-<area shape="rect" id="node6" href="$group__mvector.html#ga978bfc830d59eb08c07a9a12f80c86a0" title="Rotates vector using the rotation matrix." alt="" coords="301,107,408,133"/>
-</map>

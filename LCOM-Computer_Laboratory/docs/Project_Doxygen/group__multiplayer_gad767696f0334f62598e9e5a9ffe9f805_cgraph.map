@@ -1,5 +1,0 @@
-<map id="mp_ship_collision" name="mp_ship_collision">
-<area shape="rect" id="node1" title="Handles multiplayer collision." alt="" coords="5,31,131,57"/>
-<area shape="rect" id="node2" href="$group__mvector.html#ga5b21913edf3a50ebb91761955fd878a9" title="Creates a vector using two points." alt="" coords="191,5,301,32"/>
-<area shape="rect" id="node3" href="$group__mvector.html#gab977880a911b2046c4fb232cf4ff1769" title="Calculates the magnitude of a vector." alt="" coords="179,56,313,83"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="ast_collision" name="ast_collision">
-<area shape="rect" id="node1" title="Checks for all asteroid related collisions." alt="" coords="5,56,100,83"/>
-<area shape="rect" id="node2" href="$group__mvector.html#ga5b21913edf3a50ebb91761955fd878a9" title="Creates a vector using two points." alt="" coords="160,5,271,32"/>
-<area shape="rect" id="node3" href="$group__mvector.html#gab977880a911b2046c4fb232cf4ff1769" title="Calculates the magnitude of a vector." alt="" coords="148,56,283,83"/>
-<area shape="rect" id="node4" href="$group__asteroidfield.html#gad4463b70c8dca784b9236cbdb3db6363" title="Fragments large asteroids into two smaller asteroids with random movement." alt="" coords="167,107,264,133"/>
-</map>

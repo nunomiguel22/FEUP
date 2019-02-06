@@ -1,4 +1,0 @@
-<map id="mp_transmit_hp" name="mp_transmit_hp">
-<area shape="rect" id="node1" title="Transmits both players health points." alt="" coords="5,5,120,32"/>
-<area shape="rect" id="node2" href="$group__serialport.html#gae540f98fef1d3feed405745643462f7c" title="Writes character to transmitter holding register." alt="" coords="168,5,256,32"/>
-</map>

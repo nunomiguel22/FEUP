@@ -1,9 +1,0 @@
-<map id="mp_connect" name="mp_connect">
-<area shape="rect" id="node1" title="Handles the initial contact between computers." alt="" coords="5,81,99,108"/>
-<area shape="rect" id="node2" href="$group__multiplayer.html#gaf228308d3c9e2d97fcc072248bafff25" title="Transmits connection message." alt="" coords="147,5,293,32"/>
-<area shape="rect" id="node4" href="$group__multiplayer.html#gacd4cb105ace9a2fa1bba912245dcc94e" title="Initiates ships values for multiplayer mode." alt="" coords="163,56,277,83"/>
-<area shape="rect" id="node5" href="$group__graphics.html#ga2371ef0833ccaeb0f1c7b325109f3017" title="Draws an unscaled, unrotated bitmap at the given position, done by Henrique Ferrolho." alt="" coords="175,107,265,133"/>
-<area shape="rect" id="node7" href="$group__vcard.html#ga5986eaef15558a47f7c629d01d6825f5" title="Displays a local buffer frame on screen." alt="" coords="169,157,271,184"/>
-<area shape="rect" id="node3" href="$group__serialport.html#gae540f98fef1d3feed405745643462f7c" title="Writes character to transmitter holding register." alt="" coords="341,5,429,32"/>
-<area shape="rect" id="node6" href="$vcard_8c.html#af19b9b73aca9700f99c102f1a38d2989" title=" " alt="" coords="344,107,427,133"/>
-</map>

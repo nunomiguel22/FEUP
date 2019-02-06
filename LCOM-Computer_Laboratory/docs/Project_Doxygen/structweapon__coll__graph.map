@@ -1,5 +1,0 @@
-<map id="weapon" name="weapon">
-<area shape="rect" id="node1" title="Weapon struct for ship&#39;s lasers." alt="" coords="5,184,72,211"/>
-<area shape="rect" id="node2" href="$structmpoint.html" title="Two&#45;dimensional cartesian point." alt="" coords="24,5,85,32"/>
-<area shape="rect" id="node3" href="$structmvector.html" title="Two&#45;dimensional vector." alt="" coords="91,95,157,121"/>
-</map>

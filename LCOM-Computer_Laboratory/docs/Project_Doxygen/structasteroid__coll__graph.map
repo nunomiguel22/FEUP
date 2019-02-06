@@ -1,5 +1,0 @@
-<map id="asteroid" name="asteroid">
-<area shape="rect" id="node1" title="Asteroid struct." alt="" coords="5,187,73,213"/>
-<area shape="rect" id="node2" href="$structmpoint.html" title="Two&#45;dimensional cartesian point." alt="" coords="25,5,86,32"/>
-<area shape="rect" id="node3" href="$structmvector.html" title="Two&#45;dimensional vector." alt="" coords="91,96,158,123"/>
-</map>

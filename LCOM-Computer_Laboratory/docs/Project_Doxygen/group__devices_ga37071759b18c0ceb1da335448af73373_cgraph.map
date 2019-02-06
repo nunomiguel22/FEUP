@@ -1,6 +1,0 @@
-<map id="readTime" name="readTime">
-<area shape="rect" id="node1" title="Reads RTC&#39;s hours, minutes and seconds and saves it on the RTC time struct." alt="" coords="5,56,80,83"/>
-<area shape="rect" id="node2" href="$group__devices.html#ga4920e35969e1f68a7a9d4f1b37d38fcd" title="Reads from a RTC register." alt="" coords="129,5,201,32"/>
-<area shape="rect" id="node3" href="$group__devices.html#ga0bc31a2807dceb35caa7cc8c8616274b" title="Writes to a RTC register." alt="" coords="128,56,203,83"/>
-<area shape="rect" id="node4" href="$group__devices.html#ga7e266bc6bf09ce724f5ff6a4e79a221f" title="Converts number from BCD to binary." alt="" coords="128,107,203,133"/>
-</map>

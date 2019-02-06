@@ -1,4 +1,0 @@
-<map id="ship_warp" name="ship_warp">
-<area shape="rect" id="node1" title="When crossing screen bounds warps ship to the other edge of the screen." alt="" coords="5,5,85,32"/>
-<area shape="rect" id="node2" href="$group__mvector.html#ga978bfc830d59eb08c07a9a12f80c86a0" title="Rotates vector using the rotation matrix." alt="" coords="133,5,240,32"/>
-</map>

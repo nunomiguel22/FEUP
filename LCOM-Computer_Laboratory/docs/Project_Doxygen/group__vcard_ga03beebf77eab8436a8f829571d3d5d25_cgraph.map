@@ -1,4 +1,0 @@
-<map id="vmode_init" name="vmode_init">
-<area shape="rect" id="node1" title="Switches VBE graphics mode." alt="" coords="5,5,88,32"/>
-<area shape="rect" id="node2" href="$group__vcard.html#gaf1a6a0da7a1f730f6377ce3719432356" title="Returns VBE mode information." alt="" coords="136,5,243,32"/>
-</map>

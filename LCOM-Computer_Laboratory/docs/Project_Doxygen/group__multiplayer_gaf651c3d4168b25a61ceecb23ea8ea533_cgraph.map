@@ -1,4 +1,0 @@
-<map id="mp_transmit_mouse_ev" name="mp_transmit_mouse_ev">
-<area shape="rect" id="node1" title="Transmits mouse events." alt="" coords="5,5,164,32"/>
-<area shape="rect" id="node2" href="$group__serialport.html#gae540f98fef1d3feed405745643462f7c" title="Writes character to transmitter holding register." alt="" coords="212,5,300,32"/>
-</map>

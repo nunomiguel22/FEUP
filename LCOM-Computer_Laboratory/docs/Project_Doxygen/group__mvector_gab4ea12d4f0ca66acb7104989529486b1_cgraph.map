@@ -1,5 +1,0 @@
-<map id="mvector_limit" name="mvector_limit">
-<area shape="rect" id="node1" title="Reduces vector magnitude to a limit." alt="" coords="5,31,104,57"/>
-<area shape="rect" id="node2" href="$group__mvector.html#gab977880a911b2046c4fb232cf4ff1769" title="Calculates the magnitude of a vector." alt="" coords="160,5,295,32"/>
-<area shape="rect" id="node3" href="$group__mvector.html#ga4376a8faaee79c4e657e909ff968f24f" title="Vector scalar multiplication." alt="" coords="152,56,303,83"/>
-</map>

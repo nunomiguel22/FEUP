@@ -1,5 +1,0 @@
-<map id="rtc_enable_int" name="rtc_enable_int">
-<area shape="rect" id="node1" title="Enables Updated&#45;ended RTC interrupts." alt="" coords="5,31,108,57"/>
-<area shape="rect" id="node2" href="$group__devices.html#ga4920e35969e1f68a7a9d4f1b37d38fcd" title="Reads from a RTC register." alt="" coords="157,5,229,32"/>
-<area shape="rect" id="node3" href="$group__devices.html#ga0bc31a2807dceb35caa7cc8c8616274b" title="Writes to a RTC register." alt="" coords="156,56,231,83"/>
-</map>

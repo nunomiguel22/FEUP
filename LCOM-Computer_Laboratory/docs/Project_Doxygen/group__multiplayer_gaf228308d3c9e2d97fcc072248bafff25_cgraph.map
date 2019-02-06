@@ -1,4 +1,0 @@
-<map id="mp_transmit_connect" name="mp_transmit_connect">
-<area shape="rect" id="node1" title="Transmits connection message." alt="" coords="5,5,152,32"/>
-<area shape="rect" id="node2" href="$group__serialport.html#gae540f98fef1d3feed405745643462f7c" title="Writes character to transmitter holding register." alt="" coords="200,5,288,32"/>
-</map>
