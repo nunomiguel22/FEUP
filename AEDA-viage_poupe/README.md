@@ -8,6 +8,10 @@ Group Project for Data Structures and Algorithms class at Faculty of Engineering
 * Maria Helena Viegas Oliveira Ferreira
 * João Filipe Carvalho de Araújo
 
+## Grades:
+* Part1: 17.4/20
+* Part2: 17.5/20
+
 ## Doxygen Documentation:
 
 [Classes Documentation](https://nunomiguel22.github.io/AEDA-viage_poupe/index.html "Doxygen documentation")
